@@ -1,0 +1,27 @@
+_repo: Story-Hour-Readers-Book-Three_6685
+creator:
+  authors:
+  - agent_name: Coe, Ida
+    gutenberg_agent_id: '2152'
+    url: http://www.gutenberg.org/2009/agents/2152
+  - agent_name: Dillon, Alice Christie
+    alias: Christie, Alice Julia
+    birthdate: 1876
+    gutenberg_agent_id: '2153'
+    url: http://www.gutenberg.org/2009/agents/2153
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcc 'LB'
+- !lcsh 'Reading'
+title: Story Hour Readers — Book Three
+url: http://www.gutenberg.org/ebooks/6685
