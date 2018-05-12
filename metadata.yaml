@@ -1,4 +1,8 @@
 _repo: Story-Hour-Readers-Book-Three_6685
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Coe, Ida
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2153'
     url: http://www.gutenberg.org/2009/agents/2153
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6685#Story-Hour-Readers-Book-Three
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
